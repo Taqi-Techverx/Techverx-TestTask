@@ -1,5 +1,5 @@
 # Techverx-TestTask
 
 
-1- please enter you db ceredentials in the appsettings.json file.
-2- Run update-database command 
+1- Please enter you db ceredentials in the appsettings.json file.
+2- Please select the Techverx.Test.Project.EntityFramework and run the update database command to update the database.
